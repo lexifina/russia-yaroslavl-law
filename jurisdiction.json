@@ -1,0 +1,11 @@
+{
+  "path": "ru-yar",
+  "code": "RU-YAR",
+  "name": "Yaroslavl Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-yaroslavl-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
