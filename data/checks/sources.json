@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-yaroslavl",
+   "kind": "legislation",
+   "name": {
+    "en": "Yaroslavl Oblast: Official Internet Portal of Legal Information (region76)",
+    "ru": "Yaroslavl Oblast: Официальный интернет-портал правовой информации (region76)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region76",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/yaroslavl/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-yaroslavl-law",
+   "group": "pravo",
+   "tz": "Europe/Moscow"
+  }
+ ]
+}
