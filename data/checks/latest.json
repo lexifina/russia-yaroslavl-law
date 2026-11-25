@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T15:05:57Z",
+ "generated": "2026-11-25T07:04:04Z",
  "latest": {
   "pravo-yaroslavl|russia/yaroslavl/acts": {
    "attempt": 1,
@@ -13,32 +13,25 @@
    },
    "census": {
     "checked": 1118,
-    "current": 1116,
+    "current": 1118,
     "gone": 0,
-    "held": 1116,
-    "newest_in_repo": "2026-10-29",
-    "pending": 2,
-    "repo": 1116,
+    "held": 1118,
+    "newest_in_repo": "2026-11-23",
+    "pending": 0,
+    "repo": 1118,
     "source_in_scope": 1118
    },
-   "check_id": "ru-pravo-yaroslavl-20261124T150437Z",
-   "commits": {
-    "count": 2,
-    "from": "5e9bef818e3c9ccba153e8c583a3f743fd107238",
-    "to": "add7bb118887df8e61e9efa7ecdb16ac45b20a0c"
-   },
+   "check_id": "ru-pravo-yaroslavl-20261125T065559Z",
+   "commits": null,
    "corpus": "russia/yaroslavl/acts",
    "error": null,
-   "finished": "2026-11-24T15:05:56Z",
+   "finished": "2026-11-25T06:56:41Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region76: 1118 law-type documents listed (every page read); 1116 held here; 2 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region76: 1118 law-type documents listed (every page read); 1118 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "7600202611230002",
-     "7600202611230003"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -46,29 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "7600202611230002",
-     "7600202611230003"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1118 law-type documents in block region76; newest published 2026-11-23",
    "source": "pravo-yaroslavl",
-   "started": "2026-11-24T15:04:37Z",
+   "started": "2026-11-25T06:55:59Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
