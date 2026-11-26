@@ -2256,12 +2256,21 @@
     },
     {
      "from": "2026-11-23",
-     "to": null,
-     "status": "as captured",
+     "to": "2026-11-24",
+     "status": "replaced",
      "text_as_of": null,
      "units": 64,
      "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region76",
      "sha256": "d353e5efe7dc6c4a492af653830518f448878bba8e81ed54be5fa613b8a6c91d"
+    },
+    {
+     "from": "2026-11-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region76",
+     "sha256": "25ec689c0fb052ebf34bba94e6598e601dce22e687c35050057e51abfb09642c"
     }
    ]
   }

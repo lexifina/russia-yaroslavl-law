@@ -1,6 +1,6 @@
 # Yaroslavl Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 16 versions, from 2026-02-27 (latest in force: 2026-11-23) · <http://publication.pravo.gov.ru/documents/block/region76>
+Законы 2026 · 17 versions, from 2026-02-27 (latest in force: 2026-11-25) · <http://publication.pravo.gov.ru/documents/block/region76>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -65,6 +65,10 @@
 | Закон № 62-з | [62-z.md](62-z.md) | 1 | 2026-10-29 |
 | Закон № 63-з | [63-z.md](63-z.md) | 1 | 2026-11-23 |
 | Закон № 64-з | [64-z.md](64-z.md) | 1 | 2026-11-23 |
+| Закон № 65-з | [65-z.md](65-z.md) | 1 | 2026-11-25 |
+| Закон № 66-з | [66-z.md](66-z.md) | 1 | 2026-11-25 |
+| Закон № 67-з | [67-z.md](67-z.md) | 1 | 2026-11-25 |
+| Закон № 68-з | [68-z.md](68-z.md) | 1 | 2026-11-25 |
 | Закон № 7-з | [7-z.md](7-z.md) | 1 | 2026-04-07 |
 | Закон № 8-з | [8-z.md](8-z.md) | 1 | 2026-04-07 |
 | Закон № 9-з | [9-z.md](9-z.md) | 1 | 2026-04-07 |
