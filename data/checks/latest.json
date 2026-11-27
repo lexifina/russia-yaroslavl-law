@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:21:22Z",
+ "generated": "2026-11-27T06:13:07Z",
  "latest": {
   "pravo-yaroslavl|russia/yaroslavl/acts": {
    "attempt": 1,
@@ -13,34 +13,25 @@
    },
    "census": {
     "checked": 1122,
-    "current": 1118,
+    "current": 1122,
     "gone": 0,
-    "held": 1118,
-    "newest_in_repo": "2026-11-23",
-    "pending": 4,
-    "repo": 1118,
+    "held": 1122,
+    "newest_in_repo": "2026-11-25",
+    "pending": 0,
+    "repo": 1122,
     "source_in_scope": 1122
    },
-   "check_id": "ru-pravo-yaroslavl-20261126T061303Z",
-   "commits": {
-    "count": 2,
-    "from": "913e17aa8537a8701fc788a74042d3975992e16c",
-    "to": "2a8344c14e3dc68b20ba35f43255e66d4dda7de1"
-   },
+   "check_id": "ru-pravo-yaroslavl-20261127T060540Z",
+   "commits": null,
    "corpus": "russia/yaroslavl/acts",
    "error": null,
-   "finished": "2026-11-26T06:13:48Z",
+   "finished": "2026-11-27T06:06:24Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region76: 1122 law-type documents listed (every page read); 1118 held here; 4 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region76: 1122 law-type documents listed (every page read); 1122 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "7600202611250001",
-     "7600202611250002",
-     "7600202611250003",
-     "7600202611250014"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -48,31 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "7600202611250001",
-     "7600202611250002",
-     "7600202611250003",
-     "7600202611250014"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1122 law-type documents in block region76; newest published 2026-11-25",
    "source": "pravo-yaroslavl",
-   "started": "2026-11-26T06:13:03Z",
+   "started": "2026-11-27T06:05:40Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261126-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
