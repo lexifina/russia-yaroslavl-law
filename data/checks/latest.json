@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:13:07Z",
+ "generated": "2026-11-28T06:27:23Z",
  "latest": {
   "pravo-yaroslavl|russia/yaroslavl/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1122,
     "source_in_scope": 1122
    },
-   "check_id": "ru-pravo-yaroslavl-20261127T060540Z",
+   "check_id": "ru-pravo-yaroslavl-20261128T061947Z",
    "commits": null,
    "corpus": "russia/yaroslavl/acts",
    "error": null,
-   "finished": "2026-11-27T06:06:24Z",
+   "finished": "2026-11-28T06:20:42Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region76: 1122 law-type documents listed (every page read); 1122 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1122 law-type documents in block region76; newest published 2026-11-25",
    "source": "pravo-yaroslavl",
-   "started": "2026-11-27T06:05:40Z",
+   "started": "2026-11-28T06:19:47Z",
    "unexplained": 0,
    "update": {
     "parts": []

@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Yaroslavl Oblast: Official Internet Portal of Legal Information (region76) · `russia/yaroslavl/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-27 06:06 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-28 06:20 UTC**.
 - Acts held here: 1 122; current at the source: 1 122; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
